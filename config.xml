@@ -20,10 +20,6 @@
           <url>git@github.com:konef/jenkinsfile_1.git</url>
           <credentialsId>12fde15b-88f7-44c3-a289-7aa18d573518</credentialsId>
         </hudson.plugins.git.UserRemoteConfig>
-        <hudson.plugins.git.UserRemoteConfig>
-          <url>git@github.com:konef/backups.git</url>
-          <credentialsId>12fde15b-88f7-44c3-a289-7aa18d573518</credentialsId>
-        </hudson.plugins.git.UserRemoteConfig>
       </userRemoteConfigs>
       <branches>
         <hudson.plugins.git.BranchSpec>
